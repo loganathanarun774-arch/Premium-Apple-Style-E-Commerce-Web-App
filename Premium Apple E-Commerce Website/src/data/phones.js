@@ -1,0 +1,50 @@
+export const phones = [
+  {
+    id: 17,
+    name: "iPhone 17 Pro Max",
+    tagline: "The Future is Now.",
+    price: "$1199",
+    image: "https://i.pinimg.com/736x/91/46/7e/91467e247d09cb4657c68d1e90a2b110.jpg",
+    desc: "Titanium design, A19 Pro chip, and the best camera system ever in an iPhone.",
+  },
+  {
+    id: 16,
+    name: "iPhone 16 Pro",
+    tagline: "Power meets elegance.",
+    price: "$999",
+    image: "https://i.pinimg.com/736x/9a/25/ed/9a25edd46c07031543dbd581d862c87b.jpg",
+    desc: "A18 Bionic, Action button, and all-day battery life.",
+  },
+  {
+    id: 15,
+    name: "iPhone 15",
+    tagline: "New camera. New design.",
+    price: "$799",
+    image: "https://i.pinimg.com/1200x/3a/4c/4a/3a4c4a6971de924f80ac9ed5d4367e2e.jpg", // Placeholder, reuse for demo
+    desc: "Dynamic Island, 48MP Main camera, and USB-C.",
+  },
+  {
+    id: 14,
+    name: "iPhone 14 Plus",
+    tagline: "Big and bigger.",
+    price: "$699",
+    image: "https://i.pinimg.com/736x/79/01/a2/7901a207b582ad4f0f850d4ffc0e6aef.jpg",
+    desc: "Vital safety technology, longer battery life.",
+  },
+  {
+    id: 13,
+    name: "iPhone 13",
+    tagline: "Your new superpower.",
+    price: "$599",
+    image: "https://i.pinimg.com/1200x/22/ed/08/22ed088e7411176a53963f651bb54e21.jpg",
+    desc: "A huge leap in battery life and durable design.",
+  },
+  {
+    id: 12,
+    name: "iPhone 12 mini",
+    tagline: "Blast past fast.",
+    price: "$499",
+    image: "https://i.pinimg.com/736x/6d/26/89/6d268916c4174dacfd597d17b66c77fe.jpg",
+    desc: "Small size. Big news. 5G speed.",
+  },
+];
